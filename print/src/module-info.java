@@ -1,0 +1,3 @@
+module print {
+    exports print;
+}
